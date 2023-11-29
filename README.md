@@ -1,5 +1,5 @@
 <h1 align="center">
-❗️Curso Alura❗️
+Curso Alura 💻
 </h1>
 
 <div align="center">

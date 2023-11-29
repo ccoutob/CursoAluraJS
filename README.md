@@ -5,9 +5,7 @@
 
 > Repositório dedicado ao curso de JavaScript pela Alura.
 
-<h2>
 
-Confira o Certificado do curso <a href="[https://github.com/Asteriuz](https://cursos.alura.com.br/certificate/soueucouto1/javascript-web-paginas-dinamicas)https://cursos.alura.com.br/certificate/soueucouto1/javascript-web-paginas-dinamicas">aqui</a>
-  
-</h2>
+![Mobile 1]([https://github.com/acenelio/assets/raw/main/sds1/mobile1.png](https://github.com/ccoutob/assets/blob/main/Cau%C3%A3%20Couto%20Basques%20-%20Curso%20JavaScript%20para%20Web_%20Crie%20p%C3%A1ginas%20din%C3%A2micas%20-%20Alura.pdf)https://github.com/ccoutob/assets/blob/main/Cau%C3%A3%20Couto%20Basques%20-%20Curso%20JavaScript%20para%20Web_%20Crie%20p%C3%A1ginas%20din%C3%A2micas%20-%20Alura.pdf)
+
 
